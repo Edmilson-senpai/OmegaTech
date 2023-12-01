@@ -4,6 +4,6 @@
 	$servername = "localhost";
 	$username = "root";
 	$password = "";
-	$dbname = "fosdb";
+	$dbname = "carvi";
 
 ?>
