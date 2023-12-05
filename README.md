@@ -7,7 +7,7 @@ Para ver los empleados:
 Busca en la BD
 
 ## Acceso others
-All staff password : 1234abcd..
+Name staff password : 1234abcd..
 
 ## Others
 Nuevos cambios
